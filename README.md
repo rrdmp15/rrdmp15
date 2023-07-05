@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dayismar Rodriguez</h1>
 <h3 align="center">Full Stack Developer with a Focus on Back-End and JavaScript</h3>
 <p align="center">
-  <img align="center" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/045/729/537/original/tong-wei-lofii-n-4.gif?1643382324"/>
+  <img align="center" alt="coding" width="800" src="https://github.com/rrdmp15/rrdmp15/blob/main/tong-wei-lofii-n-4.gif"/>
 </p>
 
 
